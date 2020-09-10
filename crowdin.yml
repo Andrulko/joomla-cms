@@ -2,6 +2,9 @@ export_languages: ["en-GB"]
 files:
   # Administrator
   # Components
+  - source: /administrator/language/en-GB/en-GB.com_abc.ini
+    translation: /administrator/language/%locale%/%locale%.com_abc.ini
+    update_option: update_as_unapproved
   - source: /administrator/language/en-GB/en-GB.com_actionlogs.ini
     translation: /administrator/language/%locale%/%locale%.com_actionlogs.ini
     update_option: update_as_unapproved
