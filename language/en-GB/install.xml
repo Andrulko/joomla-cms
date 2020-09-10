@@ -14,5 +14,5 @@
 		<folder>/</folder>
 		<filename file="meta">install.xml</filename>
 	</files>
-	<params />
+	<params/>
 </extension>
