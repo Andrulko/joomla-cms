@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile
-	version="3.8"
-	client="installation">
+<metafile version="3.8" client="installation">
 	<name>English (United Kingdom)</name>
 	<version>3.9.22</version>
 	<creationDate>August 2020</creationDate>
@@ -17,5 +15,5 @@
 		<tag>en-GB</tag>
 		<rtl>0</rtl>
 	</metadata>
-	<params />
+	<params/>
 </metafile>
